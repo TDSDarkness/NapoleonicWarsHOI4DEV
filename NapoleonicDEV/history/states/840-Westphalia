@@ -1,0 +1,24 @@
+state={
+	id=840
+	name="Westphalia"
+
+	history={
+		owner = PRI
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = PRI
+		victory_points = {
+			9515 3
+		}
+	}
+
+
+
+	provinces={
+		3512 11346 6622 495 9281 11233 247 11360 241 336 309 11264
+	}
+	manpower=172483
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

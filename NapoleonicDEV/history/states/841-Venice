@@ -1,0 +1,24 @@
+state={
+	id=841
+	name="Venice"
+
+	history={
+		owner = VNI
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = VNI
+		victory_points = {
+			9515 3
+		}
+	}
+
+
+
+	provinces={
+		11587 3604 6631 11584 9598
+	}
+	manpower=16000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

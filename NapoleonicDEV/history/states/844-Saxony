@@ -1,0 +1,24 @@
+state={
+	id=844
+	name="Saxony"
+
+	history={
+		owner = SAX
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = SAX
+		victory_points = {
+			9515 3
+		}
+	}
+
+
+
+	provinces={
+		3535 9441 9471 11545 6441 11481 6559 514 9535 3515 573
+	}
+	manpower=100640
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

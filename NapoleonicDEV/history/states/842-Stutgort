@@ -1,0 +1,24 @@
+state={
+	id=842
+	name="Stutgort"
+
+	history={
+		owner = AUS
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = AUS
+		victory_points = {
+			9515 3
+		}
+	}
+
+
+
+	provinces={
+		9517 11486 6542 519 3890 9655 6934 3679 11640 3692 11486 694 3530 
+	}
+	manpower=36800
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
